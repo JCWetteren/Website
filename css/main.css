@@ -1,0 +1,14 @@
+.footer
+{
+  background-color:#222;
+  padding:45px 10px 10px 10px;
+  font-size:15px;
+}
+
+.top li {
+  font-size: larger;
+}
+
+.hidden {
+  display:none;
+}
